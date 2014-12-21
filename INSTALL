@@ -1,0 +1,9 @@
+Building virtualdibs
+
+See doc/readme-qt.rst for instructions on building virtualdibs-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of virtualdibs.
+
+See doc/build-*.txt for instructions on building virtualdibsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of virtualdibs.
